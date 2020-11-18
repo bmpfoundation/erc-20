@@ -1,1 +1,1 @@
-# erc-20
+# BMP token on ethereum
